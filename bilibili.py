@@ -42,7 +42,7 @@ def video_downloader(video_url, video_name):
 
 
 # 测试地址
-url = 'https://www.bilibili.com/video/av3947370'
+url = 'https://www.bilibili.com/video/av10859730'
 
 
 session = requests.Session()
